@@ -1,0 +1,23 @@
+<resources>
+    <string name="dialogTitle">Result</string>
+    <string name="dialogBtn">OK</string>
+    <string name="app_name">Rock-Paper-Scissors</string>
+    <string name="scoreLabels">\t\tUser-Score   Machine-score</string>
+    <string name="winMsgString">You won!</string>
+    <string name="loseMsgString">You lost!</string>
+    <string name="drawMsgString">Draw!</string>
+    <string name="scoreMsgString">\n\nScore is:\t\t</string>
+    <string name="rockBtnDsc">Rock</string>
+    <string name="paperBtnDsc">Paper</string>
+    <string name="scissorsBtnDsc">Scissors</string>
+    <string name="userChoiseDsc">User\'s Choise</string>
+    <string name="pcChoiseDsc">Machine\'s Choise</string>
+    <string name="rulesDsc">Game\'s Rules</string>
+    <string name="newGameDsc">New Game</string>
+    <string name="exitGameDsc">Exit Game</string>
+    <string name="closeTitle">Closing Game</string>
+    <string name="closemsg">Are you sure you want to return to the main menu?</string>
+    <string name="closePositive">Yes</string>
+    <string name="closeNegative">No</string>
+    <string name="initialValue">0</string>
+</resources>
